@@ -1,5 +1,4 @@
-# bi
-Tarta Business Intelligence (BI)
+# Tarta Business Intelligence (BI)
 
 
 ## Overview
