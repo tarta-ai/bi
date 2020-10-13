@@ -1,4 +1,4 @@
-# Tarta Business Intelligence (BI)
+# Tarta BI API
 
 
 ## Overview
