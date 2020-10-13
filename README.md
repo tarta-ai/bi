@@ -11,7 +11,7 @@ This is a simplified walkthrough to see the platform in action.  To see the comp
 
 ## API
 
-The Tarta API uses API keys to authenticate requests. You can view and manage your API keys in the Stripe Dashboard.
+The Tarta API uses API keys to authenticate requests. You can view and manage your API keys in the Tarta BI Dashboard.
 
 Test mode secret keys have the prefix sk_test_ and live mode secret keys have the prefix sk_live_. Alternatively, you can use restricted API keys for granular permissions.
 
