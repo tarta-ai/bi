@@ -5,7 +5,7 @@
 If you have questions, you can always [email](mailto:support@tarta.ai) or skype us(taras_00)! If you found a bug feel free to [create an issue](https://github.com/tarta-ai/bi/issues). 
 
 ## Getting Started
-This is a simplified walkthrough to see the platform in action.  To see the complete API Documentation please see our Swagger page https://app.swaggerhub.com/apis-docs/T15413/Tarta-BI/1.0.1-oas3.
+This is a simplified walkthrough to see the platform in action.  To see the complete API Documentation please see our Swagger page https://app.swaggerhub.com/apis-docs/T15413/Tarta-BI/.
 
 ## API
 
