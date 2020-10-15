@@ -1,8 +1,6 @@
 # Tarta BI API
 
 
-## Overview
-
 ### Who can help me?
 If you have questions, you can always [email](mailto:support@tarta.ai) or skype us(taras_00)! If you found a bug feel free to [create an issue](https://github.com/tarta-ai/bi/issues). 
 
