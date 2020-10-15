@@ -38,7 +38,7 @@ Authorization: [your Basic auth token here]
     "isRemote": true,
     "id": "qvi6mHQBkC4zA6UN2duJ",
     "name": "Senior Software Developer - iOS (Remote)",
-    "urlName": "senior-software-developer-ios-remote-2",
+    "uniqueName": "senior-software-developer-ios-remote-2",
     "titleTags": [
       "senior",
       "software",
@@ -64,7 +64,7 @@ Authorization: [your Basic auth token here]
   "company": {
     "id": "5de7cd5f525d5d07d8318ac4",
     "name": "Hopper",
-    "urlName": "hopper"
+    "uniqueName": "hopper"
   },
   "source": 2002,
   "utm_source": null,
