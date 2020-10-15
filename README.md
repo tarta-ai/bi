@@ -33,6 +33,7 @@ Authorization: [your Basic auth token here]
 {
   "job": {
     "created": "2020-09-16T21:03:19.7304756Z",
+    "updated": "2020-09-16T21:03:19.7304756Z",
     "isRemote": true,
     "id": "qvi6mHQBkC4zA6UN2duJ",
     "name": "Senior Software Developer - iOS (Remote)",
